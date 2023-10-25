@@ -17,7 +17,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+<!--
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&center=true&width=435&lines=A+wise+man+once+said%3A;%22Developing+is+fun!%22" alt="Typing SVG" /></a>
 </p>
@@ -34,3 +34,4 @@
     <img src="https://img.shields.io/github/watchers/KingKophuhn/KingKophuhn?style=for-the-badge&logo=git">
 
 </p><br><br>
+-->
