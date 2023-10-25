@@ -16,3 +16,21 @@
 [![](https://visitcount.itsvg.in/api?id=KingKophuhn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&center=true&width=435&lines=A+wise+man+once+said%3A;%22Developing+is+fun!%22" alt="Typing SVG" /></a>
+</p>
+
+<p align="center"><img src="https://count.getloli.com/get/@:WillDev12?theme=rule34" width="400"></p><br>
+
+<p float="left" align="center">
+
+  <a href="https://github.com/WillDev12">
+    <img src="https://img.shields.io/github/followers/WillDev12?style=for-the-badge&logo=github">
+  <a href="https://github.com/WillDev12">
+    <img src="https://img.shields.io/github/stars/WillDev12?style=for-the-badge&logo=git">
+  <a href="https://github.com/WillDev12/WillDev12">
+    <img src="https://img.shields.io/github/watchers/WillDev12/WillDev12?style=for-the-badge&logo=git">
+
+</p><br><br>
